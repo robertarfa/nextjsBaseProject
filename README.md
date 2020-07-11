@@ -1,4 +1,4 @@
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+<a href=''><img src='https://i.ya-webdesign.com/images/vector-javascript-svg-16.png'/></a>
 
 This is a [Next.js](https://nextjs.org/) boilerplate configured to be used in any project.
 
