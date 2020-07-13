@@ -1,4 +1,4 @@
-<a href=''><img src='https://i.ya-webdesign.com/images/vector-javascript-svg-16.png'/></a>
+<a href=''><img width="400" src='https://i.ya-webdesign.com/images/vector-javascript-svg-16.png'/></a>
 
 This is a [Next.js](https://nextjs.org/) boilerplate configured to be used in any project.
 
